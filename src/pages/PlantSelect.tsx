@@ -183,6 +183,7 @@ const styles = StyleSheet.create({
     paddingBottom: 5,
     marginLeft: 32,
     marginVertical: 32,
+    paddingRight: 32
   },
   plants: {
     flex: 1,
